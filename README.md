@@ -1,0 +1,1 @@
+# GeminiAssistant.VS2026
